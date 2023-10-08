@@ -1,0 +1,28 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+
+
+    a{
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 1px solid #EB5A1E;
+        margin-top: 30px;
+
+        &:hover{
+            background-color: #EB5A1E;
+            color: #fff;
+        }
+
+        &:focus{
+            background-color: #EB5A1E;
+            color: #fff;
+        }
+        
+    }
+}

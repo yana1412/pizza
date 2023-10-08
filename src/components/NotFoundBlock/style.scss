@@ -1,0 +1,38 @@
+
+.wrapper__cart{
+    margin:  0 auto;
+    text-align: center;
+
+}
+.title{
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-size: 32px;
+    font-family: Proxima Nova;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.text{
+   margin: 0 auto;
+    color: #777;
+    font-size: 18px; 
+    width: 547px;   
+    margin-bottom: 45px;
+}
+
+.img__wrapper{
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 75px;
+    width: 300px;
+}
+
+.btn{
+    display: block;
+    margin:  0 auto;
+    color: #fff;
+    width: 210px;
+    padding: 14px 0;
+    border-radius: 30px;
+    background: #282828;
+}
